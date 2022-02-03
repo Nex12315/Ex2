@@ -1,0 +1,12 @@
+* {
+  box-sizing: border-box;
+}
+
+.company-text {
+  color: white;
+  margin: 0 auto;
+  height: 100px;
+  background-color: rgb(78, 205, 236);
+  text-align: center;
+  padding: 26px;
+}
